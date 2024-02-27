@@ -12,3 +12,4 @@ Virtual Reality (VR) steps in as a powerful tool to create these narrative space
 from physical limitations and offering accessibility to all. Through VR, we plan to craft a virtual world
 that transcends distance, giving voice to every story and building stronger bonds within our
 diverse community.
+![Screenshot 2024-02-26 163837](https://github.com/Pranj99/MUStudDivDisplay/assets/54626233/2a8b72e3-74f4-4c90-851c-4144f2081f40)
