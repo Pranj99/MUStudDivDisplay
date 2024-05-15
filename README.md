@@ -13,9 +13,4 @@ from physical limitations and offering accessibility to all. Through VR, we plan
 that transcends distance, giving voice to every story and building stronger bonds within our
 diverse community.
 
-![Screenshot 2024-02-26 163837](https://github.com/Pranj99/MUStudDivDisplay/assets/54626233/2a8b72e3-74f4-4c90-851c-4144f2081f40)
-
-
-https://github.com/Pranj99/MUStudDivDisplay/assets/54626233/91e46191-a608-48c1-92d0-9ff4bbf2627a
-
-
+https://github.com/Pranj99/MUStudDivDisplay/assets/54626233/8edff5f1-7d51-4928-9ae0-2c1ed341c7c9
