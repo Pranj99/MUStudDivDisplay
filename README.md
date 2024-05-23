@@ -9,9 +9,11 @@ only inspire but also foster a profound sense of connection within our community
 individual to feel represented.
 
 Virtual Reality (VR) steps in as a powerful tool to create these narrative spaces, breaking free
-from physical limitations and offering accessibility to all. Through VR, we plan to craft a virtual world
+from physical limitations and offering accessibility to all. Through VR, we crafted a virtual world
 that transcends distance, giving voice to every story and building stronger bonds within our
 diverse community.
+
+In this immersive experience, you can listen to student stories narrated in their own voices, explore basic information about each student, and teleport into their world!
 
 Inspired by Antonia Forster's LGBTQ+ VR Museum
 
