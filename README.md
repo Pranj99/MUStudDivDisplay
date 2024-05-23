@@ -13,4 +13,5 @@ from physical limitations and offering accessibility to all. Through VR, we plan
 that transcends distance, giving voice to every story and building stronger bonds within our
 diverse community.
 
+(Inspired by Antonia Forster's LGBTQ+ VR Museum)
 https://github.com/Pranj99/MUStudDivDisplay/assets/54626233/8edff5f1-7d51-4928-9ae0-2c1ed341c7c9
